@@ -26,7 +26,7 @@ We have to clone the device sources to introduce our device to the ``android bui
 
 
 Here im giving you a manifest to sync the device sources with the rom.
-To clone these manifest you gotta create the folder. Paste these commands in the root of your home folder:
+To clone these manifest you gotta create the folder. Paste these commands in the root of your rom folder:
 ```bash
 mkdir .repo/local_manifests
 nano .repo/local_manifests/rosemary.xml
